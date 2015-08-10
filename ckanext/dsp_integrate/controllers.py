@@ -1,3 +1,5 @@
+# -*- coding: utf8 -*-
+
 '''
     1. 此部分主要是從admin的controller之AdminController改寫的，詳見：
         https://github.com/ckan/ckan/blob/master/ckan/controllers/admin.py
