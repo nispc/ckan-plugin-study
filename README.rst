@@ -1,33 +1,3 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org//ckanext-dsp_integrate.svg?branch=master
-    :target: https://travis-ci.org//ckanext-dsp_integrate
-
-.. image:: https://coveralls.io/repos//ckanext-dsp_integrate/badge.png?branch=master
-  :target: https://coveralls.io/r//ckanext-dsp_integrate?branch=master
-
-.. image:: https://pypip.in/download/ckanext-dsp_integrate/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-dsp_integrate/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-dsp_integrate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-dsp_integrate/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-dsp_integrate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-dsp_integrate/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-dsp_integrate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-dsp_integrate/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-dsp_integrate/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-dsp_integrate/
-    :alt: License
-
 =============
 ckanext-dsp_integrate
 =============
